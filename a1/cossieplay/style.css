@@ -1,0 +1,135 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background-color: #CCC49F;
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+
+
+
+h1{
+	margin-top: -140px;
+    padding-right: 15px;
+	padding-left: 15px; 
+    text-align:center!important;
+	padding: 50px;
+	color:#C0B283;
+}
+.box {
+  margin-top: 280px;
+  padding-right: 15px;
+  padding-left: 15px; 
+  height:550px;
+  background-color: #ffffff;
+  border: 1px solid #ffffff;
+  opacity: 0.6;
+}
+h2{
+	margin-top: 170px;
+	text-align:center;
+	color:green;
+	font-size:60px;
+}
+
+
+
+.container {
+	width: 1000px;
+	background-color:#FFFFFF;
+	margin: 0 auto;
+    	
+}
+
+header {
+	background-color: #373737;
+	
+	
+}
+header div{
+	padding-top:15px;
+}
+
+
+.content {
+    margin-top:-16px;
+	padding: 10px 0;
+	width: 1000px;
+	height:820px;
+}
+
+p {
+  display: block;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align:centre;
+  
+}
+h3{
+display: block;
+margin-left: 50px;
+margin-right: 50px;
+}
+
+
+nav ul{
+	
+	list-style-type: none;
+    margin-top: -40.5px;
+    overflow: hidden;
+    background-color: #474B4F;
+	
+    
+}
+nav li {
+	float: left;
+}
+
+nav li a {
+    padding: 15px 15px;
+	display: block; 
+	text-align: center;
+	text-decoration: none;
+	color: #FFF;
+	
+}
+
+nav li a:visited { 
+	padding: 15px 15px;
+	display: block; 
+	text-align: center;
+	text-decoration: none;
+	color:#C71585;
+	
+}
+nav li a:hover, nav  li a:active, nav li a:focus { 
+	background-color: black;
+	color: #FFF;
+}
+.active { 
+ 	background-color: black;
+}
+th, td {
+  border: 1px solid black;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-top:20;
+  
+  
+}
+form{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+footer {
+	padding: 5px 0;
+	background-color:#2B2B2B;
+	position: relative;
+	text-align:center;
+	clear: both; 
+	color:#888;
+}
